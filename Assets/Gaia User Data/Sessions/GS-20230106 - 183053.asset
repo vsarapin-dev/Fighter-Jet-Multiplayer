@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230106 - 183053
+  m_EditorClassIdentifier: 
+  m_name: Session 20230106-183053
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 06.01.2023 18:30:53
+  m_terrainWidth: 2048
+  m_terrainDepth: 2048
+  m_terrainHeight: 2048
+  m_seaLevel: 50
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 06.01.2023 18:36:21
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 2048'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230106 - 183621
+    m_operationDateTime: 06.01.2023 18:36:21
+    scriptableObjectAssetGUID: de5113f17693c3c488e249cc1b643939
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (7)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230106 - 183621
+    m_operationDateTime: 06.01.2023 21:59:54
+    scriptableObjectAssetGUID: ebe94c0dcd8abb743bbf2fa2e8ba32af
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230106 - 183621
+    m_operationDateTime: 06.01.2023 22:00:55
+    scriptableObjectAssetGUID: 367e20d1e63d5214dbc3b899ff8f7a46
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230106 - 183621
+    m_operationDateTime: 06.01.2023 23:52:23
+    scriptableObjectAssetGUID: 7566ebe728a33d54cb4777a35b05ca89
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230106 - 183621
+    m_operationDateTime: 06.01.2023 23:54:19
+    scriptableObjectAssetGUID: a035865b9e1f7d14598057eaadef3ceb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230106 - 183621
+    m_operationDateTime: 06.01.2023 23:56:05
+    scriptableObjectAssetGUID: 031ce604f3fd3aa4eb8cf3248ccde61b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 5ce29e539b6f4024a986d276d364eb3e
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 297.81705
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 143.15895
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20230106 - 183621_LayerGameObject_114688_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230106
+      - 183621/Terrain_0_0-20230106 - 183621_LayerGameObject_114688_5
+    fullPath: E:/Unity3D/Projects/Race/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230106
+      - 183621/Terrain_0_0-20230106 - 183621_LayerGameObject_114688_5
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	S-14 Fighter Jet (High Poly)
+* source:	https://sketchfab.com/3d-models/s-14-fighter-jet-high-poly-5ac33d8654fb455fbde8c60ab7a54a89
+* author:	Kamran Mughal (https://sketchfab.com/absologixemployee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "S-14 Fighter Jet (High Poly)" (https://sketchfab.com/3d-models/s-14-fighter-jet-high-poly-5ac33d8654fb455fbde8c60ab7a54a89) by Kamran Mughal (https://sketchfab.com/absologixemployee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
